@@ -1,5 +1,5 @@
 Test file
 
-Added one more line
+ded one motre line
 To test how git works
 
