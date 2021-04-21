@@ -1,2 +1,5 @@
 Test file
 
+Added one more line
+To test how git works
+
